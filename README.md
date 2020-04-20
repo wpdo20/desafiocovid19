@@ -1,1 +1,1 @@
-# desafiocovid19
+echo "# desafio-covid criação de um site de notícias, para ajudar as pessoas a se informarem sobre a pademia." >>
